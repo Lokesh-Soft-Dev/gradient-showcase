@@ -2,7 +2,7 @@
 ---
 A responsive CSS gradient card showcase built with pure HTML and CSS.
 
-## Live Demo: https://lokesh-soft-dev.github.io/gradient-showcase/
+## 🔗 Live Demo : https://lokesh-soft-dev.github.io/gradient-showcase/
 ---
 ## ✨ Features
 
